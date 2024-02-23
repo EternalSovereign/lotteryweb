@@ -34,7 +34,7 @@ function App() {
         });
         setMessage("You have been entered!");
         setTimeout(() => {
-            setMessage("Want to try your luck again?");
+            setMessage("Want to try your luck again?hehe");
         }, 3000);
         setValue(0);
     };
